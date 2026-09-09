@@ -9,7 +9,7 @@ bt.innerHTML='<div> <img class="i1" src="images/i (1).webp"> </div>';
     }
     else{
 
-bt.innerHTML= '<iframe src="https://tokiyskie-mstiteli.ru/" frameborder="0"></iframe>';
+bt.innerHTML= '<iframe src="https://https://animediateka.me" frameborder="0"></iframe>';
 condition=true;
 }
    
